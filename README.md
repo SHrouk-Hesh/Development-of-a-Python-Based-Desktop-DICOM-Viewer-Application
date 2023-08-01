@@ -1,7 +1,15 @@
 # Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application
 Welcome to MedVis Pro, an innovative project dedicated to the development of a Python-based desktop DICOM Viewer Application. With cutting-edge segmentation and multi-planar reconstruction capabilities, MedVis Pro empowers medical professionals to visualize and analyze medical imaging data with precision and efficiency.
 
-
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/f7f0382d-5650-436c-aa3f-b627e0160244)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/09fbb6db-992d-4e1c-b401-d8edd66b563c)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/47166757-5da2-4211-b25a-d4618f7ffccb)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/20c11ae0-883d-4cb9-9c14-0e2a5528333f)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/117d2921-7363-48fa-904f-1da2e77553aa)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/fd51ccb8-5cbe-43bc-a84f-b252f38b6be7)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/5c5be2bb-2df1-44ad-b1e9-98eccbdca4f6)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/65ddbc70-aa32-4c52-900d-ed782e6af347)
+![image](https://github.com/SHrouk-Hesh/Development-of-a-Python-Based-Desktop-DICOM-Viewer-Application/assets/121517766/48714cf4-ff6d-4ba3-85df-efd3509ccf37)
 
 
 **Impact and Significance**
