@@ -20,5 +20,6 @@ With MedVis Pro, medical researchers and radiologists gain a valuable resource t
 
 Our DICOM Viewer application will provides a valuable tool for medical professionals to view and analyze DICOM files. The user-friendly interface and segmentation feature will enhance the accuracy and efficiency of diagnoses, ultimately improving patient outcomes.
 
+![gif](https://github.com/SHrouk-Hesh/Pharmacy-Pet-Clinical-Management-Integrated-System/assets/121517766/2bf5a127-f202-4a54-b973-0669567285cd)
 
 Together, let's embark on a transformative journey with MedVis Pro, elevating medical imaging capabilities and enhancing patient outcomes through cutting-edge technology and advanced visualization.
