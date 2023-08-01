@@ -20,4 +20,5 @@ With MedVis Pro, medical researchers and radiologists gain a valuable resource t
 
 Our DICOM Viewer application will provides a valuable tool for medical professionals to view and analyze DICOM files. The user-friendly interface and segmentation feature will enhance the accuracy and efficiency of diagnoses, ultimately improving patient outcomes.
 
+
 Together, let's embark on a transformative journey with MedVis Pro, elevating medical imaging capabilities and enhancing patient outcomes through cutting-edge technology and advanced visualization.
